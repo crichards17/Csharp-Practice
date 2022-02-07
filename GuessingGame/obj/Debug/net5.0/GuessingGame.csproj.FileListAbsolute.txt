@@ -1,0 +1,16 @@
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.exe
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.deps.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.dev.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\ref\GuessingGame.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\bin\Debug\net5.0\GuessingGame.pdb
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfo.cs
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\ref\GuessingGame.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.pdb
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\GuessingGame\obj\Debug\net5.0\GuessingGame.genruntimeconfig.cache

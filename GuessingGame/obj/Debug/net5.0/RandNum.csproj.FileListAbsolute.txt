@@ -1,0 +1,16 @@
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.csproj.AssemblyReference.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.AssemblyInfoInputs.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.AssemblyInfo.cs
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.csproj.CoreCompileInputs.cache
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.deps.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\ref\RandNum.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.pdb
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\ref\RandNum.dll
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.pdb
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.exe
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.runtimeconfig.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\bin\Debug\net5.0\RandNum.runtimeconfig.dev.json
+C:\Users\cameron.richards\Documents\Personal\Study\Csharp-Practice\RandNum\obj\Debug\net5.0\RandNum.genruntimeconfig.cache
