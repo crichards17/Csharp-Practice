@@ -1,6 +1,6 @@
 # Csharp-Practice
 
-This repo contains a series of practice projects, which I used to ramp into C# and .NET in preparation for work on my [3D Fractal Raytracer](https://github.com/crichards17/3D-Fratal-Raytracer).
+This repo contains a series of practice projects, which served to help familiarize me with C# and .NET (having worked in Java previously) in preparation for work on my [3D Fractal Raytracer](https://github.com/crichards17/3D-Fratal-Raytracer).
 
 ## Guessing Game
 
