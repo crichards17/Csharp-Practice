@@ -16,6 +16,6 @@ This is a Windows Forms app, in which a user can create, review, and delete note
 
 ## TicTacToe
 
-Given my intention to use WPF for my frontend in the above-mentioned Raytracer project, I wanted to take this opportunity to make a WPF-based applet to familiarize myself. What I decided on was a TicTacToe game, inspired by a screenshot of a similar WPF-based game someone else had created. For this one I did not follow any tutorials, only referencing the MS WPF and C# documentation, and this was a great exercise. 
+Given my intention to use WPF for my frontend in the above-mentioned Raytracer project, I wanted to take this opportunity to make a WPF-based applet to familiarize myself. What I decided on was a TicTacToe game, inspired by a screenshot of a similar WPF-based game someone else had created. For this one I did not follow any tutorials, only referencing the MS [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) documentation, and this was a great exercise. 
 
 <img src="https://github.com/crichards17/Csharp-Practice/blob/main/Captures/Tictactoe.gif?raw=true" width="400" name="Guessing Game" style="display:block;">
